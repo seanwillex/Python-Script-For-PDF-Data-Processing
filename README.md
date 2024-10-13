@@ -22,7 +22,7 @@ This project contains a Python script that parses a Kịrịkẹ-English diction
 
 1. Clone this repository:
    ```
-   git clone https://github.com/your-username/kirike-english-dictionary-parser.git
+   git clone https://github.com/seanwillex/Python-Script-For-PDF-Data-Processing.git
    cd kirike-english-dictionary-parser
    ```
 
@@ -128,7 +128,7 @@ To add these files to your GitHub repository:
    ```
 5. Link your local repository to the GitHub repository:
    ```
-   git remote add origin https://github.com/your-username/your-repo-name.git
+   git remote add origin https://github.com/seanwillex/Python-Script-For-PDF-Data-Processing.git
    ```
 6. Push the files to GitHub:
    ```
